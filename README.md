@@ -1,3 +1,4 @@
+Daily learning...
 
 # IA Generativa Pipeline ETL Python
 
@@ -220,3 +221,7 @@ for user in users:
 User Pyterson updated? True!
 User Pip updated? True!
 User Pep updated? True!
+
+**[LICENSE](/LICENSE)**
+
+See **[original repository](https://github.com/falvojr/santander-dev-week-2023)**
