@@ -2,6 +2,13 @@ Daily learning...
 
 # IA Generativa Pipeline ETL Python
 
+Project developed at the Santander 2023 Bootcamp - Data Science with Python, under the guidance of specialist [Venilton Falvo Jr](https://github.com/falvojr "Venilton Falvo Jr").
+Building an ETL (Extraction, Transformation, and Loading) pipeline, demonstrating the relationship between data, Artificial Intelligence (AI), and APIs.
+- Extraction: The adventure begins with a simple spreadsheet, from which we will extract user IDs. Then, we will use these IDs to access the 'Santander Dev Week 2023' API and obtain more detailed data, a process that highlights the versatility in data collection in Data Science.
+- Transformation: We will enter the world of AI with OpenAI's GPT-4, transforming this data into personalized marketing messages. We will see how AI can be used in an innovative and practical way!
+- Loading: We will finalize the process by sending these messages back to the 'Santander Dev Week 2023' API.
+This step illustrates how transformed data is reintegrated into systems, completing the cycle of an ETL pipeline.
+
 ## Adjusting the Extract Step
 
 🟢 **Option 1: Simpler (Data Directly in Code)**  
