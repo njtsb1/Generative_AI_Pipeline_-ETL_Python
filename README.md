@@ -211,7 +211,9 @@ for user in users:
 ```
 
 Pyterson, invest to make your money grow. Your financial future depends on it!
+
 Pip, investing is the way to multiply your money. Let's strengthen your financial future!
+
 Pep, investments are the key to your financial future. Grow your money, don't just save it!
 
 ## Load
@@ -229,7 +231,9 @@ for user in users:
 ```
 
 User Pyterson updated? True!
+
 User Pip updated? True!
+
 User Pep updated? True!
 
 **[LICENSE](/LICENSE)**
